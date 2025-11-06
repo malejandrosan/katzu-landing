@@ -1,4 +1,4 @@
-# [Katzu- Landing Page]((https://katzu.work))
+# [Katzu- Landing Page](https://katzu.work)
 
 ## About
 
