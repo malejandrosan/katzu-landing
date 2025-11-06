@@ -16,11 +16,12 @@ The landing page is minimal, clean, and designed to highlight the platform’s m
 
 ```text
 katzu-landing/
-├── index.html 
-├── style.css 
-├── script.js 
-├── LICENSE.md 
-└── README.md
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+└── LICENSE.md
 ```  
 
 ## Getting Started
