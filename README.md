@@ -14,13 +14,14 @@ The landing page is minimal, clean, and designed to highlight the platform’s m
 
 ## Project Structure
 
+```
 katzu-landing/
-
 ├── index.html 
 ├── style.css 
 ├── script.js 
 ├── LICENSE.md 
-└── README.md  
+└── README.md
+```  
 
 ## License
 
