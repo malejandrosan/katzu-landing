@@ -1,5 +1,5 @@
-# Katzu - Landing Page
-
+# [Katzu- Landing Page]((https://katzu.work))
+---
 ## About
 
 Katzu is a platform dedicated to helping artists, designers, musicians, and creators build their personal brand online. 
@@ -24,17 +24,6 @@ katzu-landing/
 ├── script.js 
 ├── LICENSE.md 
 └── README.md  
-
----
-
-
-## Getting Started
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/katzu-landing.git
-cd katzu-landing
 
 ---
 
