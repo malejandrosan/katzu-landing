@@ -1,7 +1,5 @@
 # Katzu - Landing Page
 
-**Website:**[katzu.work](https://katzu.work)
-
 ## About
 
 Katzu is a platform dedicated to helping artists, designers, musicians, and creators build their personal brand online. 
@@ -16,7 +14,10 @@ The landing page is minimal, clean, and designed to highlight the platform’s m
 - **CSS3** 
 - **JavaScript** 
 
+---
+
 ## Project Structure
+
 katzu-landing/
 ├── index.html 
 ├── style.css 
@@ -24,11 +25,8 @@ katzu-landing/
 ├── LICENSE.md 
 └── README.md  
 
-## License
-
-See [LICENSE.md](LICENSE.md) for details.
-
 ---
+
 
 ## Getting Started
 
@@ -37,3 +35,9 @@ See [LICENSE.md](LICENSE.md) for details.
 ```bash
 git clone https://github.com/your-username/katzu-landing.git
 cd katzu-landing
+
+---
+
+## License
+
+See [LICENSE.md](LICENSE.md) for details.
