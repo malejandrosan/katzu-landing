@@ -14,7 +14,7 @@ The landing page is minimal, clean, and designed to highlight the platform’s m
 
 ## Project Structure
 
-```
+```text
 katzu-landing/
 ├── index.html 
 ├── style.css 
@@ -22,6 +22,15 @@ katzu-landing/
 ├── LICENSE.md 
 └── README.md
 ```  
+
+## Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/katzu-landing.git
+cd katzu-landing
+```
 
 ## License
 
